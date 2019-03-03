@@ -22,13 +22,13 @@ html, body {
     width: 15%;
     height: 100%;
     display: block;
-    margin-left: 450px;
+    margin-left: 485px;
     background-color: #4aaaa5;
 }
 .tags {
     float: right;
     height: 100%;
-    margin-right: 450px;
+    margin-right: 470px;
 }
 
 .tags a{
@@ -102,6 +102,93 @@ body {
     border: 10px solid transparent;   
     
 }
+
+.cells {
+    position: absolute;
+    top: 40%;
+    left: 28%;
+    transform: translate(-28%, -40%);
+}
+
+.cells {    
+    color: white;
+    background-color: #4aaaa5;
+    height: 30px;
+    width:200px;
+    margin-left: 40px;
+    padding-left: 70px;
+    padding-top: 3px;
+} 
+
+.citylight {
+    position: absolute;
+    top: 40%;
+    left: 41%;
+    transform: translate(-41%, -40%);
+}
+
+ .citylight {
+    color: white;
+    background-color: #4aaaa5;
+    height: 30px;
+    width:200px;
+    margin-left: 49px;
+    padding-left: 62px;
+    padding-top: 3px;
+}
+
+.city-building {
+    position: absolute;
+    top: 64%;
+    left: 28%;
+    transform: translate(-28%, -64%);
+}
+
+.city-building {    
+    color: white;
+    background-color: #4aaaa5;
+    height: 30px;
+    width:200px;
+    margin-left: 40px;
+    padding-left: 50px;
+    padding-top: 3px;
+} 
+
+.cool-cat {
+    position: absolute;
+    top: 64%;
+    left: 41%;
+    transform: translate(-41%, -64%);
+}
+
+ .cool-cat {
+    color: white;
+    background-color: #4aaaa5;
+    height: 30px;
+    width:200px;
+    margin-left: 49px;
+    padding-left: 62px;
+    padding-top: 3px;
+}
+
+.trees {
+    position: absolute;
+    top: 87%;
+    left: 28%;
+    transform: translate(-28%, -87%);
+}
+
+.trees {    
+    color: white;
+    background-color: #4aaaa5;
+    height: 30px;
+    width:200px;
+    margin-left: 40px;
+    padding-left: 50px;
+    padding-top: 3px;
+} 
+
+
 
 .text {
     height: 10px;
