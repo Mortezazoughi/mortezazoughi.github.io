@@ -30,6 +30,11 @@ html, body {
     margin-right: 450px;
 }
 
+.space {
+    
+    Padding-left: 20px;
+}
+
 .tags a{
     height: 100%;
     display: table;

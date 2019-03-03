@@ -22,7 +22,7 @@ html, body {
     width: 15%;
     height: 100%;
     display: block;
-    margin-left: 450px;
+    margin-left: 480px;
     background-color: #4aaaa5;
 }
 .tags {
@@ -30,6 +30,18 @@ html, body {
     height: 100%;
     margin-right: 450px;
 }
+
+.tags {
+    float: right;
+    height: 100%;
+    margin-right: 470px;
+}
+
+.space {
+    
+    Padding-left: 20px;
+}
+
 
 .tags a{
     height: 100%;

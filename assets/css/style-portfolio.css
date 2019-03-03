@@ -31,6 +31,11 @@ html, body {
     margin-right: 470px;
 }
 
+.space {
+    
+    Padding-left: 20px;
+}
+
 .tags a{
     height: 100%;
     display: table;
@@ -45,6 +50,8 @@ html, body {
     height: 100%;
     color: #b4bbc2;
 }
+
+    
 .name {
     height: 100%;
     display: table;    
